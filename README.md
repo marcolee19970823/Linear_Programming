@@ -1,2 +1,2 @@
 # Linear_Programming
-Note, implementation for linear programming.
+Note and implementation for linear programming.
